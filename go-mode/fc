@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: fc
+# key: fc
+# --
+//
+func ${1:cls} ${2:name}($3) $4 {
+  $0
+}
